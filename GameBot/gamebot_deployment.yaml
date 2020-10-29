@@ -46,3 +46,5 @@ spec:
             value: "8080"
           - name: "PICK_STRATEGY"
             value: "RANDOM"
+          - name: "FF_BETS"
+            value: "true"
